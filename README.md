@@ -4,7 +4,7 @@
 I am a passionate **Quality Assurance Analyst** with a background in **Industrial Engineering**. I specialize in developing **quality control protocols**, conducting **rigorous software testing**, and enhancing **customer satisfaction** through meticulous attention to detail. My journey began at the **University of the Philippines Diliman**, where I cultivated my skills in optimizing systems and processes.
 
 ## 💻 Current Role
-I currently work as a **Quality Control Intern** at **Manufacturing Corp**, where I support our quality control team in performing inspections, conducting tests, and participating in root cause analyses. My previous experience at **Tech Solutions, Inc.** equipped me with strong problem-solving skills, having implemented **QA protocols** that led to a significant reduction in defects.
+I currently work as a **Quality Assurance Engineer** at **Globalist**, where I support our quality Assurance team in performing inspections, conducting tests, and participating in root cause analyses. My previous experience at **Tech Solutions, Inc.** equipped me with strong problem-solving skills, having implemented **QA protocols** that led to a significant reduction in defects.
 
 ## 🔧 Skills
 - ✅ Quality Control Inspections
