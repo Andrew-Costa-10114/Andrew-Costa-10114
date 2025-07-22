@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Andrew Costure.
+# 👋 Hi there! I'm Andrew Costa.
 
 ## 🔍 About Me
 I am a passionate **Quality Assurance Engineer** with a background in **Industrial Engineering**. I specialize in developing **quality control protocols**, conducting **rigorous software testing**, and enhancing **customer satisfaction** through meticulous attention to detail. My journey began at the **University of the Philippines Diliman**, where I cultivated my skills in optimizing systems and processes.
