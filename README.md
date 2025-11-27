@@ -90,6 +90,6 @@ I believe great leadership is about **trust, systems thinking, and quality deliv
 ## 📫 Let's Connect
 I enjoy discussing ideas at the intersection of **quality, product, and people**. Reach out if you’d like to collaborate, chat about software strategy, or build something meaningful.
 
-📧 **Email:** bearingman2611@gmail.com
+📧 **Email:** andrew@globalist.live
 
 🚀 Thanks for visiting my profile!
