@@ -9,87 +9,11 @@ With hands-on experience in **project ownership**, **manual/automation testing**
 
 ## 💼 Current Role
 ### 🎯 **Project Manager at Globalist LLC**
-I currently work as a **Project Manager** at **Globalist LLC**, where I lead the development and delivery of **Globalist Media Suite**, a content operations platform. I oversee project lifecycles—from ideation to deployment—while collaborating with engineers, designers, and stakeholders to ensure timely execution.
+I currently work as a **Project Manager** at **Globalist Media**, where I lead the development and delivery of **Globalist Media Suite**, a content operations platform. I oversee project lifecycles—from ideation to deployment—while collaborating with engineers, designers, and stakeholders to ensure timely execution.
 
-### Key Responsibilities:
-- Leading agile ceremonies (stand-ups, sprint planning, retrospectives)
-- Coordinating engineering, QA, and design teams
-- Defining scope, milestones, and timelines
-- Managing backlogs and sprint reports using tools like **Jira**, **Linear**, and **Notion**
-- Acting as product proxy to clarify requirements and prioritize MVPs
-
----
-
-## 👨‍🔧 Previous Role
-### 🔧 **Quality Assurance Engineer at Globalist**
-Previously, I served as a **QA Engineer** at **Globalist**, supporting the quality control team with:
-- Functional testing
-- Regression and performance testing
-- Bug triage
-- Root cause analysis
-
-My earlier experience at **Tech Solutions, Inc.** allowed me to implement robust QA protocols, reducing production issues and enhancing customer satisfaction.
-
----
-
-## 🏆 Expertise
-- **Agile Project Management** 📅
-- **Sprint & Task Planning (Jira, Linear)** 🗂
-- **MVP & Milestone Definition** 🎯
-- **Stakeholder Communication** 🤝
-- **Team Leadership & Conflict Resolution** 🧑‍🤝‍🧑
-- **Software Testing (Manual & Automated)** 🐞
-- **CI/CD & Quality Pipelines** 🚀
-
----
-
-## 💻 Skills
-
-### 📈 Project Management
-- 🧠 Agile & Scrum Frameworks
-- 🗓 Project Planning & Scheduling
-- 📊 KPI/OKR Tracking
-- 📋 Product Backlog Management
-- 🤝 Cross-functional Collaboration
-- 📂 Documentation & Reporting
-
-### 🧪 Quality Assurance
-- ✅ Quality Control Inspections
-- 🔍 Root Cause Analysis
-- 🧪 Test Planning & Execution
-- 🐛 Bug Reporting & Tracking
-- 🤖 Automation Testing
-
----
 
 ## 🌍 Languages & Tools
-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) - ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) - ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## 🌱 What I'm Working On
-I'm currently managing feature development and QA pipelines for **Globalist Media Suite**, while exploring modern tools for **agile product delivery**, **test automation**, and **performance monitoring**.
-
----
-
-## 💡 Fun Fact
-I believe great leadership is about **trust, systems thinking, and quality delivery**—not just managing deadlines. 🚀
-
----
-
-## 📫 Let's Connect
-I enjoy discussing ideas at the intersection of **quality, product, and people**. Reach out if you’d like to collaborate, chat about software strategy, or build something meaningful.
-
-📧 **Email:** andrew@globalist.live
 
 🚀 Thanks for visiting my profile!
