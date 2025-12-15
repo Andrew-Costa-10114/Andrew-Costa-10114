@@ -8,8 +8,8 @@ With hands-on experience in **project ownership**, **manual/automation testing**
 ---
 
 ## 💼 Current Role
-### 🎯 **Project Manager at Globalist Media**
-I currently work as a **Project Manager** at **Globalist Media**, where I lead the development and delivery of **Globalist Media Suite**, a content operations platform. I oversee project lifecycles—from ideation to deployment—while collaborating with engineers, designers, and stakeholders to ensure timely execution.
+### 🎯 **CTO at Globalist Media**
+I currently work as a **CTO** at **Globalist Media**, where I lead the development and delivery of **Globalist Media Suite**, a content operations platform. I oversee project lifecycles—from ideation to deployment—while collaborating with engineers, designers, and stakeholders to ensure timely execution.
 
 
 ## 🌍 Languages & Tools
