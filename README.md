@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Andrew Costa.
 
 ## 🔍 About Me
-I am a passionate **Project Manager** and **Quality Assurance Engineer** with a background in **Industrial Engineering**. I specialize in **cross-functional team coordination**, **quality control protocols**, and delivering **seamless software experiences** through strategic planning and testing. My journey began at the **University of the Philippines Diliman**, where I cultivated my skills in optimizing systems and processes.
+I am a passionate **Project Manager** and **Quality Assurance Engineer** with a background in **Industrial Engineering**. I specialize in **cross-functional team coordination**, **quality control protocols**, and delivering **seamless software experiences** through strategic planning and testing. My journey began at the **The Technological University of the Philippines**, where I cultivated my skills in optimizing systems and processes.
 
 With hands-on experience in **project ownership**, **manual/automation testing**, and **agile delivery**, I ensure that software products meet business goals while exceeding user expectations.
 
